@@ -1,0 +1,140 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  /* vertical-align: baseline; */
+}
+
+a {
+  float: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+  position: relative;
+  padding: 20px;
+  color: white;
+}
+
+img {
+  max-height: 140px;
+  max-width: 450px;
+  height: auto;
+  width: auto;
+}
+
+#blocks {
+  margin: 10px;
+}
+
+#red {
+  background-color: #f0260f;
+}
+
+#blue {
+  background-color: #00abff;
+}
+
+#pink {
+  background-color: #f45886;
+}
+
+#beige {
+  background-color: #cdc3b7;
+}
+
+#blue_dark {
+  background-color: #1f1460;
+}
+
+#green_olive {
+  background-color: #6da73e;
+}
+
+#green_olive {
+  background-color: #6da73e;
+}
+
+#green_turkis {
+  background-color: #358f86;
+}
