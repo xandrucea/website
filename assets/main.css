@@ -103,6 +103,19 @@ img {
   width: auto;
 }
 
+.center {
+  margin:  auto;
+  width: 20%;
+  padding: 10px;
+  text-align:  center;
+
+}
+
+.banner{
+  position: fixed;
+  bottom: 0;
+}
+
 #blocks {
   margin: 10px;
 }
