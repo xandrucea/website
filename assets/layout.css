@@ -16,7 +16,35 @@ body{
 	width: 100px;
 	height:  100%;
 	background:  #042331;
-	transition:  all .5a ease;
+	transition: width 2s;/* all .5a ease;*/
+
+}
+
+.sidebar:hover{
+	width: 120px;
+}
+
+.sidebar header{
+	font-size:  14px;
+	color:  white;
+	line-height: 50px;
+	text-align:  center;
+	background: #063146;
+	user-select: none;
+}
+
+
+.sidebar ul a {
+	display:  block;
+	font-size: 14px;
+	height:  40px;
+	width:  100%;
+	line-height:  10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	border-top:  2px solid rgba(255,255,255,.1);
+	transition: width 1.1s;
+	/*border-bottom:  2px solid rgba(255,255,255,.1);*/
 }
 
 .linklist {
@@ -47,30 +75,12 @@ body{
 	padding-right: 10px;
 	box-sizing: border-box;
 	border-top:  2px solid rgba(255,255,255,.1);
+	transition: width 1s;
 	/*border-bottom:  2px solid rgba(255,255,255,.1);*/
 }
 
-.sidebar header{
-	font-size:  14px;
-	color:  white;
-	line-height: 50px;
-	text-align:  center;
-	background: #063146;
-	user-select: none;
-}
-
-
-
-.sidebar ul a {
-	display:  block;
-	font-size: 14px;
-	height:  40px;
-	width:  100%;
-	line-height:  10px;
-	padding-left: 10px;
-	box-sizing: border-box;
-	border-top:  2px solid rgba(255,255,255,.1);
-	/*border-bottom:  2px solid rgba(255,255,255,.1);*/
+ul a:hover{
+	width: 60px;
 }
 
 ul li:hover a{
