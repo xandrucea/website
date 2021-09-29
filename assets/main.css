@@ -103,6 +103,15 @@ img {
   width: auto;
 }
 
+.ac_content{
+  height:  50%;
+  margin-left:  100px;
+  margin-top:  170px;
+  position: absolute;
+  padding: 50px;
+  width: 200px;
+}
+
 .center {
   margin:  auto;
   width: 20%;
