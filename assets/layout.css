@@ -15,6 +15,7 @@ body{
 	right: 0;
 	width: 70px;
 	height:  100%;
+	overflow:scroll;
 	/*background:  #042331;*/
 	transition: width 2s;/* all .5a ease;*/
 
@@ -37,7 +38,8 @@ body{
 .sidebar ul a {
 	display:  block;
 	font-size: 13px;
-	height:  20px;
+	margin-top: 5px;
+	height:  25px;
 	width:  100%;
 	line-height:  15px;
 	padding-left: 10px;
@@ -50,7 +52,7 @@ body{
 .linklist {
 	position: fixed;
 	left: 0;
-	width: 90px;
+	width: 140px;
 	height:  100%;
 	/*background:  #042331;*/
 	/*transition:  all .5a ease;*/
@@ -70,7 +72,8 @@ body{
 	display:  block;
 	font-size: 14px;
 	text-align:  right;
-	height: 30px;
+	margin-top: 5px;
+	height: 55px;
 	width:  100%;
 	line-height:  10px;
 	box-sizing: border-box;

@@ -90,9 +90,9 @@ video {
 a {
   float: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  margin: 10px;
+  margin: 0px;
   position: relative;
-  padding: 20px;
+  padding: 15px;
   color: white;
 }
 
