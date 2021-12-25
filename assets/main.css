@@ -96,37 +96,21 @@ a {
   color: white;
 }
 
-img {
-  max-height: 140px;
-  max-width: 450px;
-  height: auto;
-  width: auto;
-}
-
-.ac_content{
-  height:  50%;
-  margin-left:  100px;
-  margin-top:  170px;
+.ac_content {
+  height: 50%;
+  margin-left: 100px;
+  margin-top: 170px;
   position: absolute;
   padding: 50px;
   width: 200px;
 }
 
-.center {
-  margin:  auto;
-  width: 20%;
-  padding: 10px;
-  text-align:  center;
-
+.home_button {
 }
 
-.banner{
+.banner {
   position: fixed;
   bottom: 0;
-}
-
-#blocks {
-  margin: 10px;
 }
 
 #red {
