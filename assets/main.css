@@ -87,6 +87,17 @@ video {
   /* vertical-align: baseline; */
 }
 
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 a {
   float: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -103,9 +114,6 @@ a {
   position: absolute;
   padding: 50px;
   width: 200px;
-}
-
-.home_button {
 }
 
 .banner {
