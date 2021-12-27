@@ -1,4 +1,5 @@
 * {
+  margin: 0;
   padding: 0;
 }
 
@@ -33,11 +34,12 @@ ul {
 }
 
 .banner {
-  top: 0;
-  text-align: center;
   width: 100%;
-  height: auto;
-  max-width: max-content;
+}
+
+.header {
+  margin-top: -2px;
+  width: 100%;
 }
 
 .socialmedia {
@@ -59,7 +61,7 @@ ul {
 }
 
 .socialmedia img {
-  border-radius: 25px;
+  border-radius: 100px;
   display: inline-block;
   width: 35px;
   padding: 5px;
