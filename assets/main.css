@@ -38,10 +38,15 @@ ul {
   margin: 0;
 }
 
+.autors {
+  position: absolute;
+  right: 0px;
+}
+
 .accordion {
   background-color: white;
   color: black;
-  max-width: 800px;
+  max-width: 600px;
   margin: 90px auto;
   padding: 35px 35px;
   width: auto;
@@ -85,7 +90,7 @@ ul {
   position: relative;
   background: white;
   height: 0;
-  font-size: 20px;
+  font-size: 14px;
   text-align: justify;
   width: 780px;
   overflow: hidden;
