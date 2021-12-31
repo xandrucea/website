@@ -12,3 +12,11 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss3_transition1
 
 create accordion blog
 https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/
+
+#level 3
+
+add twitter card
+https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary
+
+validate here
+http://cards-dev.twitter.com/validator
