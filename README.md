@@ -20,3 +20,10 @@ https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summar
 
 validate here
 http://cards-dev.twitter.com/validator
+
+#level 4
+
+create .gitignore
+https://coursework.vschool.io/create-a-gitignore/
+can you put .gitignore into .gitignore
+https://stackoverflow.com/a/10177000/1141395
