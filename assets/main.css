@@ -91,6 +91,7 @@ ul {
   background: white;
   height: 0;
   font-size: 14px;
+  line-height: 140%;
   text-align: justify;
   width: 780px;
   overflow: hidden;
@@ -100,6 +101,14 @@ ul {
   width: 100;
   margin-left: 0;
   border: 1px solid gray;
+}
+
+.book_header {
+  margin-bottom: -120px;
+}
+
+.book_footer {
+  margin-top: -100px;
 }
 
 .header {
