@@ -41,6 +41,13 @@ ul {
 .autors {
   position: absolute;
   right: 0px;
+  background-color: orange;
+}
+
+.titles {
+  position: relative;
+  width: 240px;
+  background-color: green;
 }
 
 .accordion {
@@ -112,7 +119,7 @@ ul {
 }
 
 .header {
-  margin-top: -2px;
+  margin-top: 0;
   width: 100%;
 }
 
@@ -142,17 +149,16 @@ ul {
 }
 
 .menu a {
-  border-bottom: 1px solid rgb(65, 218, 218);
+  border-bottom: 3px solid #0a2344;
+  color: white;
   display: block;
   font-size: 16px;
   padding-top: 15px;
   padding-bottom: 15px;
-  width: 100%;
   text-align: center;
   text-transform: uppercase;
-  background-color: rgb(180, 122, 122);
   text-decoration: none;
-  color: white;
+  width: 100%;
 }
 
 #rainbow1 {
