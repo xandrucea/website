@@ -38,16 +38,32 @@ ul {
   margin: 0;
 }
 
+.accordion .content ul li {
+  clear: both;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
 .autors {
-  position: absolute;
-  right: 0px;
-  background-color: orange;
+  /* display: block; */
+  /* position: absolute; */
+  right: 0;
+  text-align: right;
+  width: 100px;
+  float: right;
+  white-space: wrap;
+}
+
+.autors a {
+  color: black;
 }
 
 .titles {
+  color: blue;
+  display: inline-block;
   position: relative;
-  width: 240px;
-  background-color: green;
+  text-align: left;
+  width: calc(100% - 110px);
 }
 
 .accordion {
